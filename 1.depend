@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1656075719 source:e:\embbeded system\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"bank data base.h"
+
+1655976114 e:\embbeded system\1\max.h
+
+1655812370 source:e:\embbeded system\1\max.c
+
+1656072935 e:\embbeded system\1\bank data base.h
+
+1656076042 source:e:\embbeded system\1\bank data base.c
+	"bank data base.h"
+
+1656340110 source:e:\embbeded system\bank data base project\bank data base.c
+	"bank data base.h"
+
+1656338517 e:\embbeded system\bank data base project\bank data base.h
+
+1656340078 source:e:\embbeded system\bank data base project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"bank data base.h"
+
